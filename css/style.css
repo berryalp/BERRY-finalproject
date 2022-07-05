@@ -1,0 +1,197 @@
+.header {
+    background-color: rgb(245, 239, 239);
+    color: azure;
+}
+
+.header .logo img {
+    width: 10rem;
+    height: auto;
+}
+
+.header ul li {
+    color: black;
+}
+
+
+.cssmenu ul {
+    display: flex;
+    list-style-type: none;
+    margin-left: 800px;
+    padding: 0px;
+}
+
+.cssmenu ul li {
+    margin: 20px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: small-caps;
+    color: white;
+}
+
+.slider-left h3 {
+    background-color: yellow;
+    width: 400px;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.slider-left h4 {
+    background-color: yellow;
+    width: 400px;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.slider-left p {
+    background-color: rgb(66, 60, 60);
+    color: aliceblue;
+    font-size: 30px;
+    margin: 10px;
+    width: 400px;
+
+}
+
+.slider-right h3 {
+    background-color: yellow;
+    width: 400px;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.slider-right h4 {
+    background-color: yellow;
+    width: 400px;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.slider-right p {
+    background-color: rgb(66, 60, 60);
+    color: aliceblue;
+    font-size: 30px;
+    margin: 10px;
+    width: 400px;
+
+}
+
+/* contact */
+.banner h2 {
+    background-color: rgb(105, 96, 96);
+    width: 300px;
+    font-size: 30px;
+    color: rgb(216, 216, 100);
+    padding-left: 20px;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-variant: small-caps;
+}
+
+.contact .leave {
+    background-color: rgb(73, 63, 63);
+    width: 300px;
+    font-size: 30px;
+    color: yellow;
+    text-align: center;
+    font-variant: small-caps;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.contact {
+    display: flex;
+}
+
+.contact-list p {
+    display: flex;
+    text-align: right;
+}
+
+.banner {
+    background-image: linear-gradient(rgb(241, 230, 209) 10%, rgb(205, 205, 186) 20%);
+    padding: 20px;
+}
+
+.main .map {
+    padding-top: 10px;
+}
+
+.main .contact-list li {
+    display: flex;
+}
+
+.main .contact-list img {
+    width: 30px;
+    height: 30px;
+
+}
+
+.contact .clear .contact-to {
+    background-color: black;
+}
+
+.main .contact-list li p {
+    margin-left: 20px;
+}
+
+/* about */
+.skills .percentage {
+    background-color: yellow;
+    width: 30rem;
+}
+
+.section-group-example {
+    display: flex;
+    margin: auto;
+
+    
+}
+
+
+
+.about-middle h4 {
+    background-color: rgb(73, 63, 63);
+    color: yellow;
+    border-style: inset;
+    width: 200px;
+    padding: 10px;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin: auto;
+    font-size: 25px;
+
+}
+
+.wrap .section-group {
+    display: flex;
+
+}
+
+.wrap .section-group h2 {
+    text-transform: uppercase;
+    margin-left: 20px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.wrap .section-group p {
+    margin-left: 20px;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.wrap .section-group h3 {
+    margin-left: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.about-middle p {
+    text-align: center;
+
+}
